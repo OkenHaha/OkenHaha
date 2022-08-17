@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **keithellakpamoken@gmail.com**
 
