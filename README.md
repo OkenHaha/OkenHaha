@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oken</h1>
 <h3 align="center">Web Developer from Manipur, Small part in India</h3>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue, React**
 
 - 💬 Ask me about **Web Development**
 
