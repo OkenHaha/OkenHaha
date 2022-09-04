@@ -1,4 +1,4 @@
-![]("header.png")
+![]("https://github.com/OkenHaha/OkenHaha/blob/main/header.png")
 <h3 align="center">Web Developer from Manipur, Small part in India</h3>
 
 - 🌱 I’m currently learning **Vue, React**
