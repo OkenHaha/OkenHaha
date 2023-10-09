@@ -1,6 +1,6 @@
 <img src="https://github.com/OkenHaha/OkenHaha/blob/main/header.png"/>
 
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 I’m currently learning **ML and AI**
 
 - 💬 Ask me about **Web Development**
 
