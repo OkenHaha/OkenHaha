@@ -1,4 +1,4 @@
-<img src="https://github.com/OkenHaha/OkenHaha/blob/main/header2.jpg"/>
+<img src="https://github.com/OkenHaha/OkenHaha/blob/main/header2.jpeg"/>
 
 # 💫 About Me:
 Hi! I'm Oken and I'm a Full Stack developer and a aspiring AI/ML engineer/researcher
