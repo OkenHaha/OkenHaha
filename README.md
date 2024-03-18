@@ -3,6 +3,44 @@
 # 💫 About Me:
 Hi! I'm Oken and I'm a Full Stack developer and a aspiring AI/ML engineer/researcher
 
+# 👨‍💼 Internship Experience
+
+- **Data Science and Machine Learning Intern** \
+  📆 Dec 2023 - Feb 2024
+  💻 [SKOLAR](https://skolar.com)
+  [GitHub Link](https://github.com/OkenHaha/SKOLAR)
+    - Applied machine learning algorithms like KNN, Lasso Regression, Random Forest, Logistic Regression, AdaBoost, and PCA
+    - Implemented supervised/unsupervised models showcasing data cleaning, feature engineering, and model selection skills
+    - Collaborated using version control tools and coding best practices
+
+- **Artificial Intelligence Intern** \
+  📆 Nov 2023 - Dec 2023
+  💻 [CodSoft](https://codsoft.in)
+  [GitHub Link](https://github.com/OkenHaha/CodSoft)
+    - Developed unbeatable Tic-Tac-Toe AI using the minimax algorithm for optimal move exploration
+    - Increased image classification accuracy by 15% using OpenCV and Haar Cascades
+    - Generated relevant image captions with 90% accuracy using OpenCV and Transformer networks
+
+- **Machine Learning Intern** \
+  📆 Oct 2023 - Nov 2023
+  💻 [TechnoHacks EduTech Official](https://www.technohacks.co.in/)
+  [GitHub Link](https://github.com/OkenHaha/technohacks_internship)
+    - Engineered 3 classification models predicting wine quality, diabetes, and heart disease with 75-82% accuracy
+    - Utilized logistic regression, random forest, SVM with Python for data preprocessing and modeling
+
+- **Full Stack Web Developer Intern** \
+  📆 Jan 2022 - May 2023
+  💻 [NullClass](https://nullclass.com)
+  [GitHub Link](https://github.com/OkenHaha/Stack-Overflow-Clone)
+    - Developed StackOverflow clone using MERN stack (MongoDB, Express, React, Node.js)
+    - Implemented Redux for efficient state management across components
+    - Integrated Twilio API for automated chatbot with OTP verification
+
+- **Campus Leader Intern** \
+  📆 Dec 2021 - Jan 2022
+  💻 [TechLearn.live](https://techlearn.live)
+    - Leveraged interpersonal skills to drive referrals and showcase learning content
+    - Expanded applicant pool through awareness campaigns
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okenk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@keithellakpamoken) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OkenK45) 
