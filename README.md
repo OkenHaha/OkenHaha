@@ -29,7 +29,7 @@ Hi! I'm Oken and I'm a Full Stack developer and a aspiring AI/ML engineer/resear
     - Utilized logistic regression, random forest, SVM with Python for data preprocessing and modeling
 
 - **Full Stack Web Developer Intern** \
-  📆 Jan 2022 - May 2023
+  📆 Nov 2022 - Jan 2023
   💻 [NullClass](https://nullclass.com)
   [GitHub Link](https://github.com/OkenHaha/Stack-Overflow-Clone)
     - Developed StackOverflow clone using MERN stack (MongoDB, Express, React, Node.js)
