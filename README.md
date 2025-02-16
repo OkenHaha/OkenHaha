@@ -11,7 +11,7 @@ I'm a passionate **developer** and **AI enthusiast** with a strong interest in *
 ---
 
 ### **💡 What I Do**  
-🔥 **AI & ML:** Exploring NLP, Computer Vision, and AI Ethics  
+🔥 **AI & ML:** Exploring NLP, Computer Vision, Deep Nerual Networks, and AI Ethics  
 🛠 **Full Stack Development:** MERN stack, Django, Flask  
 📖 **Research & Learning:** Always upskilling in AI & open-source contributions  
 
