@@ -1,12 +1,12 @@
 <img src="https://github.com/OkenHaha/OkenHaha/blob/main/header2.jpeg"/>
 
 ### **💫 Hey there, I'm Oken!**  
-🚀 Full Stack Developer | Aspiring AI/ML Researcher  
+🚀 Full Stack Developer | AI/ML Engineer
 
 ---
 
 ### **🔬 About Me**  
-I'm a passionate **developer** and **AI enthusiast** with a strong interest in **machine learning, deep learning, and AI alignment**. My journey started with **full-stack development**, but my curiosity for **AI research** has led me to dive deeper into **natural language processing, computer vision, and model interpretability**.  
+I'm a passionate **developer** and **AI enthusiast** with a strong interest in **machine learning, deep learning, and AI alignment**. My journey started with **full-stack development**, but my curiosity for **AI research** has led me to dive deeper into **natural language processing, computer vision, model interpretability, Generative AI and LLMS**.  
 
 ---
 
@@ -26,7 +26,7 @@ I'm a passionate **developer** and **AI enthusiast** with a strong interest in *
   *A full-stack implementation using the MERN stack with Redux and OTP verification via Twilio. [Explore here](https://github.com/OkenHaha/Stack-Overflow-Clone)*
 
 - **Image Captioning:**  
-  *An integration of CNN and Transformer for generating image captions with impressive accuracy.*
+  *An integration of CNN and Transformer for generating image captions.*
 
 ---
 
@@ -35,6 +35,8 @@ I'm a passionate **developer** and **AI enthusiast** with a strong interest in *
 - *Hacktoberfest 2022 & 2024 Contributor*  
 - *Project Maintainer for SWOC 2025 and IWOC 2025*  
 - *Active participant in various online hackathons, sharpening rapid problem-solving skills*
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okenk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@keithellakpamoken)
