@@ -20,14 +20,13 @@ I'm a passionate **developer** and **AI enthusiast** with a strong interest in *
 ### **🚀 Projects & Open Source Contributions**
 
 - **Face2Comic:**  
-  *A Pix2Pix cGAN-based approach to cartoonify human portraits. [Check it out](https://github.com/OkenHaha/your-face2comic-repo)*
+  *A Pix2Pix cGAN-based approach to cartoonify human portraits. [Check it out]([https://github.com/OkenHaha/your-face2comic-repo](https://github.com/OkenHaha/face2comic-a-cGAN-approach-to-cartoonify-human-potraits))*
 
 - **StackOverflow Clone:**  
   *A full-stack implementation using the MERN stack with Redux and OTP verification via Twilio. [Explore here](https://github.com/OkenHaha/Stack-Overflow-Clone)*
 
-- **Image Captioning:**  
-  *An integration of CNN and Transformer for generating image captions.*
-
+- **React Blog**  
+  *A side project Build while Learning the MERN stack. Selected for SWOC2025 and IWOC2025! [Check it out here](https://github.com/OkenHaha/react-blog)*
 ---
 
 ### **🏆 Achievements & Hackathons**
