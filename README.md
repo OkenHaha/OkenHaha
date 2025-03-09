@@ -34,6 +34,7 @@ I'm a passionate **developer** and **AI enthusiast** with a strong interest in *
 - *Hacktoberfest 2022 & 2024 Contributor*  
 - *Project Maintainer for SWOC 2025 and IWOC 2025*  
 - *Active participant in various online hackathons, sharpening rapid problem-solving skills*
+- *Speaker at Nielit* **Cybrella 2.0** *2025 on the topic "Open Source Contribution" as a Subject Matter Expert*
 
 
 
