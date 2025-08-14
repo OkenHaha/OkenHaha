@@ -1,23 +1,23 @@
 <img src="https://github.com/OkenHaha/OkenHaha/blob/main/header2.jpeg"/>
 
-### **💫 Hey there, I'm Oken!**  
-🚀 Full Stack Developer | AI/ML Engineer
+### **Hey there, I'm Oken!**  
+AI/ML Engineer | Full Stack Developer
 
 ---
 
-### **🔬 About Me**  
+### **About Me**  
 I'm a passionate **developer** and **AI enthusiast** with a strong interest in **machine learning, deep learning, and AI alignment**. My journey started with **full-stack development**, but my curiosity for **AI research** has led me to dive deeper into **natural language processing, computer vision, model interpretability, Generative AI and LLMS**.  
 
 ---
 
-### **💡 What I Do**  
-🔥 **AI & ML:** Exploring NLP, Deep Nerual Networks, and AI Ethics  
-🛠 **Full Stack Development:** MERN stack, Django, Flask  
-📖 **Research & Learning:** Always upskilling in AI & open-source contributions  
+### **What I Do**  
+🔥 **AI & ML:** Exploring NLP, Deep Learning, Generative AI, Agentic AI, GANs, MCP, and AI Ethics
+🛠 **Full Stack Development:** MERN stack, Django, Flask, FastAPI, VueJS, Supabase, NextJS, Bootstrap, TailwindCSS
+📖 **Research & Learning:** Always upskilling in AI & open-source contributions. Ambitious in AI Alignment solution.
 
 ---
 
-### **🚀 Projects & Open Source Contributions**
+### **Projects & Open Source Contributions**
 
 - **Face2Comic:**  
   *A Pix2Pix cGAN-based approach to cartoonify human portraits. [Check it out](https://github.com/OkenHaha/face2comic-a-cGAN-approach-to-cartoonify-human-potraits)*
