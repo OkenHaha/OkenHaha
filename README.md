@@ -1,48 +1,76 @@
 <img src="https://github.com/OkenHaha/OkenHaha/blob/main/header2.jpeg"/>
 
 ### **Hey there, I'm Oken!**  
-AI/ML Engineer | Full Stack Developer
+**AI Engineer & Specialist | Architecting Production-Grade AI Systems & Alignment Research**
 
 ---
 
 ### **About Me**  
-I'm a passionate **developer** and **AI enthusiast** with a strong interest in **machine learning, deep learning, and AI alignment**. My journey started with **full-stack development**, but my curiosity for **AI research** has led me to dive deeper into **natural language processing, computer vision, model interpretability, Generative AI and LLMS**.  
+I am an AI Engineer and Software Developer specializing in designing and deploying production-grade AI systems. My expertise spans **Retrieval-Augmented Generation (RAG) architectures, edge-optimized Computer Vision, low-resource NLP, and Generative Modeling**. 
+
+While my foundation is in full-stack engineering, my core focus is now on bridging applied AI with **AI Alignment research**—building systems that are not only powerful but interpretable, robust, and aligned with human intent. I am a self-synthesizer who loves to build, break, and learn from the process, and I actively write technical blogs to demystify complex AI concepts for the developer community.
 
 ---
 
 ### **What I Do**  
-🔥 **AI & ML:** Exploring NLP, Deep Learning, Generative AI, Agentic AI, GANs, MCP, and AI Ethics
-🛠 **Full Stack Development:** MERN stack, Django, Flask, FastAPI, VueJS, Supabase, NextJS, Bootstrap, TailwindCSS
-📖 **Research & Learning:** Always upskilling in AI & open-source contributions. Ambitious in AI Alignment solution.
+🧠 **Applied AI & Machine Learning:** Architecting enterprise RAG systems (Hybrid Search, pgvector), Generative AI pipelines, Agentic workflows, and edge-deployed Computer Vision models.
+🔬 **AI Alignment & Research:** Investigating model interpretability, mesa-optimization, and robust evaluation frameworks to ensure AI systems behave safely and predictably.
+⚙️ **Backend & Systems Engineering:** Building scalable microservices and data-intensive backends using FastAPI, Django, PostgreSQL, and modern cloud infrastructure.
+✍️ **Technical Communication:** Writing in-depth blog posts to break down complex AI concepts and sharing perspectives on AI ethics and alignment.
 
 ---
 
-### **Projects & Open Source Contributions**
+### **Featured Projects & Research**
 
-- **Face2Comic:**  
-  *A Pix2Pix cGAN-based approach to cartoonify human portraits. [Check it out](https://github.com/OkenHaha/face2comic-a-cGAN-approach-to-cartoonify-human-potraits)*
+- **e-Gazette RAG System (Hybrid Document Intelligence):**  
+  Architected a production-grade hybrid retrieval and QA system for a **14GB+ corpus** of government documents. Integrated a custom OCR pipeline (Dolphin VLM) for degraded historical texts, combining **BM25 and pgvector** for high-precision semantic search and automated citation.
 
-- **StackOverflow Clone:**  
-  *A full-stack implementation using the MERN stack with Redux and OTP verification via Twilio. [Explore here](https://github.com/OkenHaha/Stack-Overflow-Clone)*
+- **Edge-Optimized Computer Vision (EV Monitoring):**  
+  Developed real-time computer vision pipelines for Electric Vehicle monitoring, focusing on low-latency inference, model quantization, and deployment in resource-constrained edge environments.
 
-- **React Blog**  
-  *A side project Build while Learning the MERN stack. Selected for SWOC2025 and IWOC2025! [Check it out here](https://github.com/OkenHaha/react-blog)*
+- **Face2Comic (cGAN Research):**  
+  Engineered a Pix2Pix conditional GAN to translate real human portraits into comic-style illustrations. Focused on structural preservation via U-Net architectures and PatchGAN discriminators for high-fidelity image-to-image translation.
+
+- **Generative AI & Agentic Workflows:**  
+  Building autonomous agents and generative pipelines leveraging LLMs, Model Context Protocol (MCP), and advanced prompt engineering to solve complex, multi-step reasoning tasks.
+
 ---
 
-### **🏆 Achievements & Hackathons**
+### **🏆 Open Source & Community Leadership**
 
-- *Hacktoberfest 2022 & 2024 Contributor*  
-- *Project Maintainer for SWOC 2025 and IWOC 2025*  
-- *Active participant in various online hackathons, sharpening rapid problem-solving skills*
-- *Speaker at Nielit* **Cybrella 2.0** *2025 on the topic "Open Source Contribution" as a Subject Matter Expert*
+- **Speaker & Subject Matter Expert:** Delivered a session on "Open Source Contribution" at **NIELIT Cybrella 2.0 (2025)**.
+- **Project Maintainer:** Led open-source initiatives for **SWOC 2025** and **IWOC 2025**, guiding contributors in MERN and AI-based projects.
+- **Active Contributor:** Hacktoberfest 2022 & 2024, with a focus on AI/ML repositories and developer tooling.
 
+---
 
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keithellakpam-oken/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/OkenK19) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@keithellakpamoken)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keithellakpamoken@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okenk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@keithellakpamoken)
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+## 💻 Tech Stack:
+
+**🧠 AI/ML & Data Science:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**⚙️ Backend & Frameworks:**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+**🗄️ Databases & Vector Stores:**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+**🎨 Frontend & Styling:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+**☁️ DevOps & Tools:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=okenhaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=okenhaha&theme=dark&hide_border=false)<br/>
@@ -54,8 +82,8 @@ I'm a passionate **developer** and **AI enthusiast** with a strong interest in *
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=okenhaha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/okenk) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 Support My Work
+If you find my open-source projects or technical blogs helpful, you can support me here:  
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/okenk) 
